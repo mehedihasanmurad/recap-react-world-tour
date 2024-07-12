@@ -12,3 +12,9 @@
 .non-visit {
     background-color: aqua;
 }
+
+.flags-container img{
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+}
